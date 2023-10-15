@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    --primary: hsla(237, 90%, 20%, 0.65);
+    --secondary: hsla(238, 88%, 23%, 0.65);
+}
+
+@layer components {
+    .images {
+        background: linear-gradient(135deg, var(--primary), var(--secondary)), url(./images/home.jpg) no-repeat center center / cover;
+    }
+    .img {
+        background: linear-gradient(135deg, var(--primary), var(--secondary)), url(./images/foot.webp) no-repeat center center / cover;
+    }
+}
