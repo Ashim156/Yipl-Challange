@@ -7,7 +7,7 @@ const Home = () => {
   return (
     
       <div id='home' className="bg-gray-50">
-<div className=" min-h-[130vh] ss:h-full sm:full lg:h-full md:h-full  max-w-7xl mx-auto w-full h-16 flex flex-col ">
+<div className=" h-full  sm:full lg:h-full md:h-full  max-w-7xl mx-auto w-full  flex flex-col ">
   <div className='text-center'>
     <h1 className=" mt-28 font-[600] text-[32px] mb-5 ss:text-[22px] sm:text-[28px]">Campaigns</h1>
     <p className="text-gray-500 text-[20px] sm:text-[18px] ss:text-[16px] font-[200] text-center">We aim to stop public funds siphoning off and we have a plan that will help. We <br /> are working at the national and EU levels to advance.</p>

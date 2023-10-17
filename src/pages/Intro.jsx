@@ -3,7 +3,7 @@ import {AiOutlineArrowRight} from 'react-icons/ai'
 const Intro = () => {
   return (
     
-<div id="about" className="h-[1100px] w-full ss:mt-20 mt-40 ss:h-full sm:mt-20  sm:h-full md:h-full lg:h-full ">
+<div id="about" className="h-[1100px] w-full ss:mt-20 mt-40 ss:h-full sm:mt-20  sm:h-full md:h-[180vh] lg:h-[180vh] ">
   <div className="grid grid-cols-3 max-w-7xl mx-auto ss:grid-cols-1 ss:justify-items-center ss:mb-0 sm:grid-cols-1 sm:justify-items-center sm:mb-0 md:grid-cols-1 md:justify-items-center md:mb-0
   lg:grid-cols-1 lg:justify-items-center lg:mb-0">
     <div className="flex flex-col h-[402px] w-[348px]">
